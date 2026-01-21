@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body{
+    overflow-x: hidden;
+}
+
+button{
+    cursor: pointer;
+}
